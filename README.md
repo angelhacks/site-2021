@@ -1,7 +1,7 @@
 # AngelHacks 2020 site
 
-[**angelhacks.org**](https://angelhacks.org)
+[**2020.angelhacks.org**](https://2020.angelhacks.org)
 
-Check back soon for more updates!
+Check back soon for more updates! Thanks for coming and see you at AngelHacks 3.0!
 
 MIT License
